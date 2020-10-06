@@ -8,6 +8,7 @@ gem 'sass-rails'
 gem 'webpacker'
 gem 'jbuilder'
 gem 'bootsnap', require: false
+gem 'react-rails'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
